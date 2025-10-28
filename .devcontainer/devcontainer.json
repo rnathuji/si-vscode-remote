@@ -16,7 +16,10 @@
 			"settings": {},
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
-                "janisdd.vscode-edit-csv"
+                "janisdd.vscode-edit-csv",
+                "ms-toolsai.jupyter",
+                "reditorsupport.r",
+                "reditorsupport.r-syntax"
 			]
 		}
 	}
