@@ -4,7 +4,7 @@
 {
 	"name": "Node.js",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "harbor.safeinsights.org/openstax/r-base:4.5.1-4.5.1-2025-10-22-v2",
+	"image": "harbor.safeinsights.org/openstax/r-base:4.5.1-2025-10-29",
     // "image": "r-base:4.5.1"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
