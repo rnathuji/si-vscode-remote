@@ -4,7 +4,7 @@
 {
 	"name": "Node.js",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-18-bullseye",
+	"image": "harbor.safeinsights.org/openstax/r-base:4.5.1-4.5.1-2025-10-22-v2",
     // "image": "r-base:4.5.1"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
@@ -28,7 +28,7 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [3000],
 
-	// Use 'portsAttributes' to set default properties for specific forwarded ports. 
+	// Use 'portsAttributes' to set default properties for specific forwarded ports.
 	// More info: https://containers.dev/implementors/json_reference/#port-attributes
 	// "portsAttributes": {
 	// 	"3000": {
